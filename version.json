@@ -7,6 +7,6 @@
   },
   "default": {
     "version": "1.0.3",
-    "url": "https://your-render-name.onrender.com/firmware/firmware_v1.0.3.bin"
+    "url": "https://github.com/OmarWaled21/esp32_update_firmware/releases/download/1.0.0/firmware_v1.0.0.bin"
   }
 }
