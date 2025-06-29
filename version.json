@@ -1,12 +1,12 @@
 {
   "devices": {
     "FC:B4:67:56:F9:C8": {
-      "version": "1.0.5",
-      "url": "https://your-render-name.onrender.com/firmware/firmware_v1.0.5.bin"
+      "version": "1.0.1",
+      "url": "https://github.com/OmarWaled21/esp32_update_firmware/releases/download/1.0.1/firmware_v1.0.1.bin"
     }
   },
   "default": {
-    "version": "1.0.3",
+    "version": "1.0.0",
     "url": "https://github.com/OmarWaled21/esp32_update_firmware/releases/download/1.0.0/firmware_v1.0.0.bin"
   }
 }
