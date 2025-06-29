@@ -1,0 +1,12 @@
+{
+  "devices": {
+    "FC:B4:67:56:F9:C8": {
+      "version": "1.0.5",
+      "url": "https://your-render-name.onrender.com/firmware/firmware_v1.0.5.bin"
+    }
+  },
+  "default": {
+    "version": "1.0.3",
+    "url": "https://your-render-name.onrender.com/firmware/firmware_v1.0.3.bin"
+  }
+}
